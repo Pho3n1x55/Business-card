@@ -26,7 +26,7 @@ body {
 
 .card-wrapper{
     max-width: 500px;
-    margin: 0 auto;
+    margin:  auto;
     background: linear-gradient(to right, #F48C06, #E85D04);
     padding: 3px;
     display: flex;
