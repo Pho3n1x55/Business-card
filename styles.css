@@ -39,11 +39,13 @@ body {
 }
 .info h1{
     margin: 0;
+    font-size:32px;
     background: -webkit-linear-gradient(45deg, #FFBA08, #E85D04);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .info h2{
+    font-size:22px;
     margin: 0;
     color: #ffff;
 }
@@ -56,23 +58,7 @@ body {
    color: #ffff;
 }
 
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-- change the border(s)
-- add border radius
-- shuffle the layout
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
 
-/*
-Final challenge:
-Download the code to your local computer and place it
-in a folder called "business-card"
-*/
 .links{
 
     display:inline-flex;
