@@ -45,7 +45,7 @@ body {
     -webkit-text-fill-color: transparent;
 }
 .info h2{
-    font-size:22px;
+    font-size:25px;
     margin: 0;
     color: #ffff;
 }
@@ -58,7 +58,9 @@ body {
 .location{
    color: #ffff;
 }
-
+.location h4{
+    font-size: 20px;
+}
 
 .links{
 
